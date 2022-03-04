@@ -1,0 +1,23 @@
+{
+  "name": "tailwind_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nazmul7989/tailwind_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nazmul7989/tailwind_practice/issues"
+  },
+  "homepage": "https://github.com/Nazmul7989/tailwind_practice#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
