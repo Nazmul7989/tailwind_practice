@@ -1,11 +1,9 @@
 module.exports = {
+  darkMode: 'media',
   content:  ["*.html"],
   theme: {
     extend: {},
-    fontFamily: {
-      
-      'body': ['Open Sans' ],
-    }
+    
   },
   plugins: [],
 }
